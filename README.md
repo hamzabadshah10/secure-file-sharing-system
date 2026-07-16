@@ -4,8 +4,6 @@
 
 <br/>
 
-# 🔒 Secure File Sharing System
-
 ### *A robust, session-based file sharing platform designed for secure uploading, managing, and sharing of confidential files.*
 
 <br/>
