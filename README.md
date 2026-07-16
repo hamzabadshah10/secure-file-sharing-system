@@ -1,36 +1,39 @@
 <div align="center">
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Secure%20File%20Sharing&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20MySQL&descAlignY=60&descAlign=50" width="100%"/>
+
+<br/>
+
 # 🔒 Secure File Sharing System
 
-**A robust, session-based file sharing platform designed for secure uploading, managing, and sharing of confidential files.**
+### *A robust, session-based file sharing platform designed for secure uploading, managing, and sharing of confidential files.*
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br/>
+
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+<br/>
+
+[![GitHub Stars](https://img.shields.io/github/stars/hamzabadshah10/secure-file-sharing-system?style=for-the-badge&logo=github&color=ffd700)](https://github.com/hamzabadshah10/secure-file-sharing-system/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/hamzabadshah10/secure-file-sharing-system?style=for-the-badge&logo=github&color=4fc3f7)](https://github.com/hamzabadshah10/secure-file-sharing-system/network)
+[![GitHub Issues](https://img.shields.io/github/issues/hamzabadshah10/secure-file-sharing-system?style=for-the-badge&logo=github&color=ff7043)](https://github.com/hamzabadshah10/secure-file-sharing-system/issues)
+[![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 
 </div>
 
 ---
 
-## 📖 Table of Contents
-- [About the Project](#-about-the-project)
-- [Key Features](#-key-features)
-- [System Architecture](#-system-architecture)
-- [Project Structure](#-project-structure)
-- [The Team](#-the-team)
-- [Setup & Installation](#-setup--installation-guide)
-- [Git Workflow](#-git-workflow-critical)
-- [Future Enhancements](#-future-enhancements)
+## 👩‍💻 About This Repository
+
+The **Secure File Sharing System** bridges the gap between usability and strict data security. It allows users to register, upload sensitive documents, and selectively share them through unique, password-protected, and time-expiring links. The integration of "Self-Destruct" links ensures that highly classified files can only be downloaded once before being permanently erased.
 
 ---
 
-## 🚀 About the Project
-The **Secure File Sharing System** bridges the gap between usability and strict data security. It allows users to register, upload sensitive documents, and selectively share them through unique, password-protected, and time-expiring links. The integration of "Self-Destruct" links ensures that highly classified files can only be downloaded once before being permanently erased.
+## 🚀 Key Features
 
-## ✨ Key Features
 - **🛡️ Secure Authentication:** Robust session-based user registration and login.
 - **📁 File Management:** Seamlessly upload, view, and manage your documents via an intuitive dashboard.
 - **🔗 Shareable Links:** Generate unique cryptographic URLs for sharing files externally.
@@ -40,7 +43,7 @@ The **Secure File Sharing System** bridges the gap between usability and strict 
 
 ---
 
-## 🏗 System Architecture
+## 🏗 System Architecture & Structure
 
 ```mermaid
 graph LR
@@ -49,7 +52,7 @@ graph LR
     B <-->|File I/O| D[Local File System <br/> /uploads]
 ```
 
-## 📂 Project Structure
+### Directory Layout
 
 ```text
 secure-file-sharing-system/
@@ -71,6 +74,29 @@ secure-file-sharing-system/
 
 ---
 
+## 🧠 Skills & Technologies
+
+<div align="center">
+
+### Backend & Database
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+### Concepts Covered
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-6f42c1?style=flat-square)
+![REST_API](https://img.shields.io/badge/REST_API-6f42c1?style=flat-square)
+![Web_App](https://img.shields.io/badge/Web_Application-6f42c1?style=flat-square)
+
+</div>
+
+---
+
 ## 👥 The Team
 | Role | Name | Responsibilities |
 | :--- | :--- | :--- |
@@ -81,7 +107,7 @@ secure-file-sharing-system/
 
 ---
 
-## 💻 Setup & Installation Guide
+## 🚀 Quick Start
 
 ### 1. Database Setup (Esha's Rules)
 The system uses MySQL for data persistence.
@@ -131,7 +157,43 @@ To maintain a stable `main` branch, all team members must follow this workflow:
 * **Drag-and-Drop UI:** Enhancing the frontend to support seamless drag-and-drop file uploads.
 * **Cloud Storage Integration:** Migrating local `uploads/` storage to AWS S3 or Google Cloud Storage.
 
-<br/>
+---
+
+## 🤝 Connect & Contribute
+
 <div align="center">
-  <i>© 2026 Secure File Sharing System Team - Software Engineering Department, Developed as part of the School of Computing Sciences, Pak-Austria Fachhochschule (PAF-IAST)</i>
+
+[![GitHub Follow](https://img.shields.io/github/followers/hamzabadshah10?label=Follow%20on%20GitHub&style=for-the-badge&logo=github&color=181717)](https://github.com/hamzabadshah10)
+[![Star Repo](https://img.shields.io/badge/⭐%20Star%20This%20Repo-ffd700?style=for-the-badge)](https://github.com/hamzabadshah10/secure-file-sharing-system/stargazers)
+[![Fork Repo](https://img.shields.io/badge/🍴%20Fork%20This%20Repo-4fc3f7?style=for-the-badge)](https://github.com/hamzabadshah10/secure-file-sharing-system/fork)
+
+</div>
+
+Feel free to explore, fork, or reach out with any questions! If you found this repo helpful, please **⭐ star it** — it means a lot! 🙏
+
+---
+
+## 📄 License
+
+Distributed under the **MIT License** — free to use, share, and adapt with attribution.
+
+---
+
+<div align="center">
+
+### 👩‍💻 Author
+
+**Hamza Badshah** (Project Manager & Backend Developer)
+*Software Engineering Department, Pak-Austria Fachhochschule (PAF-IAST)*
+
+[![GitHub](https://img.shields.io/badge/GitHub-hamzabadshah10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzabadshah10)
+
+<br/>
+
+*© 2026 Secure File Sharing System Team*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
